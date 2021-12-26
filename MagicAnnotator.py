@@ -6,7 +6,7 @@ import imutils
 import os
 import time
 
-Base_path="C:/biju/Experiments/MagicAnnotation/"
+Base_path="MagicAnnotation/"
 
 #Create Json Annotation template
 
