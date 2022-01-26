@@ -15,7 +15,7 @@ try:
     videofile = sys.argv[2]
 except:
     print('Arguments missing')
-    print('@Usage : python ObjectDetectionImageLive.py <<object name>> << video file>>')
+    print('@Usage : python MagicAnnotator.py <<object name>> << video file>>')
     exit()
 
 directory =objecttoannotate
